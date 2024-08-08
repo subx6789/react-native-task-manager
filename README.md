@@ -12,7 +12,11 @@ A simple and efficient task management app built with React Native. This app all
 
 ## Screenshots
 
-**Installation**
+![1](https://github.com/user-attachments/assets/c7c0177c-ecd7-4c20-b1a7-742a1477a327)
+![2](https://github.com/user-attachments/assets/f2304974-95ec-4973-9c73-c7ddeed53a73)
+![3](https://github.com/user-attachments/assets/96f2009b-053f-4d6b-acf4-03ba01c675a8)
+
+## Installation**
 
 - Clone the repository:
 
